@@ -1,5 +1,5 @@
 Pod:: Spec.new do |spec|
-  spec.platform     = 'ios', '11.0'
+  spec.platform     = 'ios', '10.0'
   spec.name         = 'PVSwitch'
   spec.version      = '1.0.1'
   spec.summary      = 'A customizable iOS Switch in Swift'
